@@ -1,4 +1,4 @@
-<h1>Стэк 🛠️</h1>
+<h1>Stack 🛠️</h1>
 <ul>
   <li>React</li>
   <li>TypeScript</li>
